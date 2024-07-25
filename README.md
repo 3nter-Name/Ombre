@@ -8,10 +8,10 @@ Good Luck and Have Fun!!
 ## Credits
 
 Enter-Name
-    Programming & Level Design
+- Programming & Level Design
 
 Atrina Vermillion
-    Art
+- Art
 
 Azuran
-    Music & sfx
+- Music & sfx
