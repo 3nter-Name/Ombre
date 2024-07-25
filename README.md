@@ -15,3 +15,7 @@ Atrina Vermillion
 
 Azuran
 - Music & sfx
+
+## Licensing 
+
+All rights reserved.
